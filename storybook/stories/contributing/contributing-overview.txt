@@ -46,9 +46,3 @@ Coming soon
 Proposing a new pattern for a specific use case or improving existing ones.
 
 Coming soon
-
-**Public by default**
-
-In the spirit of Automattic, we apply a public-first mentality to our design system, WordPress, and Gutenberg.
-
-The majority of conversations should happen on GitHub in the open — just make sure not to share Automattic-specific information. Slack should only be used for day-to-day coordination and when discussing matters private to Automattic.
