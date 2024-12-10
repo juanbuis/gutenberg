@@ -4,7 +4,7 @@ import { Meta } from '@storybook/addon-docs';
 
 Ready to start contributing to WPDS? There are a couple of steps you’ll need to take to get set up — we’ll take you through them.
 
-We understand GitHub might seem complicated if you’ve never used it before. Don’t worry — we’re happy to help you out with any questions in [\#design-systems on Slack](https://a8c.slack.com/archives/CNGQYA3B9).
+We understand GitHub might seem complicated if you’ve never used it before. Don’t worry — we’re happy to help you out with any questions in #design-systems on Slack.
 
 [Step 1: Get GitHub access](#step-1:-get-github-access)  
 [Step 2: Link your GitHub and WP.org accounts](#step-2:-link-your-github-and-wp.org-accounts)  
@@ -25,7 +25,7 @@ Then, you’ll need to connect your GitHub and WordPress.org accounts to make su
 
 #### **Step 3: Learn about the contribution process** {#step-3:-learn-about-the-contribution-process}
 
-In order to make effective contributions to WPDS, it’s important to know the basics of our contribution  process. While we’ll take you through a step-by-step process depending on your contribution, we’ll explain the basics below.  
+In order to make effective contributions to WPDS, it’s important to know the basics of our contribution process. While we’ll take you through a step-by-step process depending on your contribution, we’ll explain the basics below.  
    
 Depending on the contribution you’re making to the design system, you’ll either need to create an issue, or both an issue and a pull request (PR). 
 
@@ -58,7 +58,7 @@ When you’re ready to share what you’ve been working on, you can add a PR to 
 
 Creating a PR takes a couple of steps that involve copying the Gutenberg repository to your device.
 
-You can find a step-by-step explanation [on this page](https://developer.wordpress.org/block-editor/contributors/code/git-workflow/#git-workflow-walkthrough). If you’re running into any issues, let us know in [\#design-systems on Slack](https://a8c.slack.com/archives/CNGQYA3B9).
+You can find a step-by-step explanation [on this page](https://developer.wordpress.org/block-editor/contributors/code/git-workflow/#git-workflow-walkthrough). If you’re running into any issues, let us know in #design-systems on Slack.
 
 The full process is as follows:
 

@@ -6,13 +6,12 @@ A design system is never finished. That’s why we invite all designers, develop
 
 ### **Get connected**
 
-In order to stay up to date on all things design systems at Automattic, [join the \#design-systems channel on Slack](https://a8c.slack.com/archives/CNGQYA3B9).
-
+In order to stay up to date on all things design systems at WordPress, join the #design-systems channel on Slack.
 It’s a great place to ask what could be your first contribution, and we’ll be happy to help you make it happen.
 
 Also feel free to ask questions, join discussions, or just read along.
 
-For anything specific to the code implementation of UI components (and the @wordpress/components package), [join the \#components channel](https://a8c.slack.com/archives/CK1QYS6P6).
+For anything specific to the code implementation of UI components (and the @wordpress/components package), join the #components channel.
 
 ### **Get ready to contribute**
 

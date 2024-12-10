@@ -68,7 +68,7 @@ Follow the following steps to fork and clone the Gutenberg repository, and creat
 
 When your PR is live, you can link it to your issue by selecting it in the sidebar under ‘development’. This makes it easy to keep track of both simultaneously.
 
-If you need help with this part, feel free to reach out to us in [\#design-systems on Slack](https://a8c.slack.com/archives/CNGQYA3B9), where we’ll be happy to help you get your PR live.
+If you need help with this part, feel free to reach out to us in #design-systems on Slack, where we’ll be happy to help you get your PR live.
 
 **Step 4: Work towards merging your pull request**
 
