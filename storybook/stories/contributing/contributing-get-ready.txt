@@ -2,7 +2,7 @@ import { Meta } from '@storybook/addon-docs';
 
 <Meta title="Contributing/Get Ready to Contribute" />
 
-Ready to start contributing to WPDS? There are a couple of steps you’ll need to take to get set up — we’ll take you through them.
+Ready to start contributing to WPDS? There are a couple of steps you’ll need to take to get set up — here's how.
 
 We understand GitHub might seem complicated if you’ve never used it before. Don’t worry — we’re happy to help you out with any questions in #design-systems on Slack.
 
@@ -13,7 +13,7 @@ We understand GitHub might seem complicated if you’ve never used it before. Do
 
 #### **Step 1: Get GitHub access** {#step-1:-get-github-access}
 
-Our design system lives [on GitHub in the Gutenberg repository](https://github.com/WordPress/gutenberg) — it’s where we collaborate on the code and documentation, and where your contributions will be started, tracked, and finished.
+The WordPress design system lives [on GitHub in the Gutenberg repository](https://github.com/WordPress/gutenberg) — it’s where everyone collaborates on the code and documentation, and where your contributions will be started, tracked, and finished.
 
 You’ll need a GitHub account to get started. If you don’t have one yet, [please sign up here](https://github.com/join).
 
@@ -31,16 +31,16 @@ Depending on the contribution you’re making to the design system, you’ll eit
 
 **What’s an issue?**
 
-Issues are how we keep track of changes to our design system on GitHub. You can find [all open issues on the Gutenberg repository](https://github.com/WordPress/gutenberg/issues).
+Issues are the GitHub tool where you can keep track of changes to the WordPress design system. You can find [all open issues on the Gutenberg repository](https://github.com/WordPress/gutenberg/issues).
 
 Smaller changes, like fixing a typo, don’t require you to create a PR yourself, and the implementation can be handled by the community. In this case, you can just create a new issue and add a clear description of the work you’re doing.
 
-Make sure to add the Design System label when creating an issue, and consider adding one of the following labels when needed:
+Make sure to add the [Design System ](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Design%20System%22)label when creating an issue, and consider adding one of the following labels when needed:
 
-Needs Design — Needs design efforts  
+[Needs Design](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue%20state%3Aopen%20label%3A%22Needs%20Design%22) — Needs design efforts  
 Needs Copy Review — Needs review of user-facing copy (language, phrasing)  
-Needs Dev — Ready for, and needs developer efforts  
-Needs Accessibility Feedback — Needs input from accessibility
+[Needs Dev ](https://github.com/WordPress/gutenberg/issues?q=is%3Aissue%20state%3Aopen%20%22Needs%20Dev%22%20)— Ready for, and needs developer efforts  
+[Needs Accessibility Feedback](https://github.com/WordPress/gutenberg/labels/Needs%20Accessibility%20Feedback) — Needs input from accessibility
 
 Reviewers will chime in to discuss if your change is worth adding to the design system. When it’s accepted, someone will gladly help you with pushing the change.
 
@@ -69,7 +69,7 @@ Create your own online copy of the Gutenberg project by “forking” it. This m
 Download your forked copy onto your computer. This allows you to work on the code locally.
 
 **Create a new branch**  
-Start a separate branch for your changes to keep your work organized and make it easy to manage updates.
+Start a separate branch for your changes to keep your work organized and updates manageable.
 
 **Make code changes**  
 Implement your improvements or fixes directly in the code files.

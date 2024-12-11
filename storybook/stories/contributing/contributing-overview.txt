@@ -2,7 +2,7 @@ import { Meta } from '@storybook/addon-docs';
 
 <Meta title="Contributing/Overview" />
 
-A design system is never finished. That’s why we invite all designers, developers, and writers from across the world to help improve WPDS. It’s easy to get started.
+A design system is never finished. That’s why all designers, developers, and writers from across the world are invited to help improve WPDS. This documentation is designed to help you get started quickly and with confidence. 
 
 ### **Get connected**
 
@@ -21,7 +21,7 @@ There are a couple of steps before you can start contributing to the design syst
 
 **How can you contribute?**
 
-We’re open to all kinds of contributions, no matter how big or small. Below you’ll find some ideas.
+You're encouraged to make all kinds of contributions, no matter how big or small. Below you’ll find some ideas.
 
 **Documentation**
 

@@ -88,7 +88,7 @@ You’ll need to share sizing and styling annotations for all aspects of the com
 
 #### Step 4: Refinement {#step-4}
 
-We’re almost ready to publish your component, but you’ll still need to spend some time finetuning it. You can do the following:
+You’re almost ready to publish your component, but you’ll still need to spend some time finetuning it. You can do the following:
 
 - First, clearly define and agree on which features will be included in the component.  
 - Then, reduce the scope by removing features that lack consensus.  
@@ -285,7 +285,7 @@ For component families, each subcomponent gets its own folder, with shared code 
 ### Component Versioning
 
 If you need to introduce a radically new version of a component:
-- Attempt to keep the same API surface and just update the internal implementation.
+- Attempt to keep the same API surface and update the internal implementation.
 - If not possible, create a new component (e.g., `ComponentV2`) and maintain backward compatibility, deprecating the old component over time.
 
 #### Versioning Approaches

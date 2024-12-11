@@ -12,9 +12,9 @@ We’d love for you to help us improve our documentation. It’s easy to get sta
 
 ### **Small copy changes**
 
-If you see a spelling, punctuation, or grammatical error anywhere in our documentation, you can help us fix it. 
+If you see a spelling, punctuation, or grammatical error anywhere in the documentation, you can help fix it. 
 
-By creating an issue on GitHub, you can easily suggest one or multiple small copy changes, which will then be approved and added by the community. In the near future, we’ll also have an Edit button on every page to instantly suggest changes to the page you’re on. We’ll update this page when this feature is live.
+You can suggest one or multiple small copy changes in a GitHub issue, which will then be approved and added by the community.
 
 [Click here to open a new issue](https://github.com/WordPress/gutenberg/issues/new?labels=Design+System&body=Then%2C+write+a+detailed+description%3A%0D%0A%0D%0A-+Explain+your+rationale+for+adding+this+component%0D%0A-+Detail+the+intended+behavior%0D%0A-+Clarify+if+it%E2%80%99s+a+new+component+of+a+variation+of+an+existing+one%0D%0A-+Include+a+basic+mockup+%28optional%29%0D%0A-+Include+inspiration+from+other+products+%28optional%29). Then, write a detailed description that explains the change(s) you’re making to the writing.
 
@@ -28,7 +28,7 @@ Creating a new page takes more work and will need feedback from the community. T
 
 #### **Step 1: Open a GitHub issue**
 
-If you’ve decided you want to create a new page, you’ll need to open a GitHub issue on Project Gutenberg. This is where we’ll be able to discuss the proposed changes and track progress.
+If you want to create a new page, you’ll need to open a GitHub issue on Project Gutenberg. This is where the discussion of the proposed changes and progress tracking will happen.
 
 It’s encouraged to open an issue even if you can’t complete every part yourself, as someone in the community might be able to pick up where you left off.
 
@@ -43,7 +43,7 @@ After opening your issue, reviewers will start a discussion in the comments to s
 
 #### **Step 2: Write, share, refine**
 
-When your idea has been approved by the community, it’s time to start writing. We recommend doing this in [Google Docs](http://docs.google.com), as it’s easy to leave suggestions or comments on your writing.
+Once the community approves your idea, it’s time to start writing. We recommend doing this in [Google Docs](http://docs.google.com), as it’s easy to leave suggestions or comments on your writing.
 
 Make sure to [use Markdown in your writing](https://www.markdownguide.org/cheat-sheet/) so it can easily be moved to the documentation website when it’s done. To enable Markdown in Google Docs, click Tools \> Preferences \> Enable Markdown.
 
@@ -54,7 +54,7 @@ It’s important that your writing aligns with the [Make WordPress Style Guide](
 [Accessibility](https://make.wordpress.org/docs/style-guide/general-guidelines/accessibility/)  
 [Punctuation](https://make.wordpress.org/docs/style-guide/punctuation/)
 
-When you have a basic outline of your page and an early version of your content, share a link to your Google Doc in the issue on GitHub.
+You can share your progress in an issue as early as a basic outline. 
 
 It’s helpful to share your draft early — that way you can collect feedback and catch errors at an earlier stage, which will increase the quality of your contribution. 
 
