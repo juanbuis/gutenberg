@@ -47,7 +47,7 @@ Once the community approves your idea, it’s time to start writing. We recommen
 
 Make sure to [use Markdown in your writing](https://www.markdownguide.org/cheat-sheet/) so it can easily be moved to the documentation website when it’s done. To enable Markdown in Google Docs, click Tools \> Preferences \> Enable Markdown.
 
-It’s important that your writing aligns with the [Make WordPress Style Guide](https://make.wordpress.org/docs/style-guide/). You’ll find guidance on lots of topics related to how we write at WordPress — here are some that might be of particular interest:
+It’s important that your writing aligns with the [Copy Guidelines](https://developer.wordpress.org/block-editor/contributors/documentation/copy-guide/). You’ll find guidance on lots of topics related to how we write at WordPress — here are some that might be of particular interest:
 
 [Style, voice, and tone](https://make.wordpress.org/docs/style-guide/general-guidelines/style-voice-tone/)  
 [Language and grammar](https://make.wordpress.org/docs/style-guide/language-grammar/)  

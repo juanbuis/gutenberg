@@ -52,7 +52,7 @@ If you’re making a bigger change to the design system, you’re expected to ma
 
 First, you create an issue to track all work related to your change, with a clear description and the right tags. Reviewers will chime in to decide if your change is worth pursuing, and once it’s been greenlit, you can start working on it.
 
-When you’re ready to share what you’ve been working on, you can add a PR to your issue to show your proposed changes. Creating a 
+When you’re ready to share what you’ve been working on, you can add a PR to your issue to show your proposed changes.
 
 #### **Step 4: Create your first PR** {#step-4:-create-your-first-pr}
 
