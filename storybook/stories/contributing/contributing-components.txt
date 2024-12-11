@@ -4,7 +4,7 @@ import { Meta } from '@storybook/addon-docs';
 
 # Contribute to components
 
-Because components are an important part of our design system and it’s WordPress policy to make them backwards compatible, contributions to them are seen as major changes.
+Because components are an important part of our design system and it’s WordPress policy to make them backward compatible, contributions to them are seen as major changes.
 
 While changing a typo in our documentation can be shipped quite quickly, work on components requires more time and attention from our design community.
 
