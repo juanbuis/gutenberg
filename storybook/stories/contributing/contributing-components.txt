@@ -4,7 +4,7 @@ import { Meta } from '@storybook/addon-docs';
 
 # Contribute to components
 
-Because components are an important part of our design system and it’s WordPress policy to make them backwards compatible, contributions to them are seen as major changes.
+Because components are an important part of our design system and it’s WordPress policy to make them backward compatible, contributions to them are seen as major changes.
 
 While changing a typo in our documentation can be shipped quite quickly, work on components requires more time and attention from our design community.
 
@@ -92,7 +92,7 @@ We’re almost ready to publish your component, but you’ll still need to spend
 
 - First, clearly define and agree on which features will be included in the component.  
 - Then, reduce the scope by removing features that lack consensus.  
-- When that’s done, you’ll have to do quality assurance to ensure that your contribution adheres to our system standards.
+- When that’s done, you’ll have to do quality assurance to ensure that your contribution adheres to the system standards.
 
 **Quality assurance**  
 Every component should be tested for quality during its development, rather than after it’s published.
