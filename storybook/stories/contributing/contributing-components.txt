@@ -92,7 +92,7 @@ We’re almost ready to publish your component, but you’ll still need to spend
 
 - First, clearly define and agree on which features will be included in the component.  
 - Then, reduce the scope by removing features that lack consensus.  
-- When that’s done, you’ll have to do quality assurance to ensure that your contribution adheres to our system standards.
+- When that’s done, you’ll have to do quality assurance to ensure that your contribution adheres to the system standards.
 
 **Quality assurance**  
 Every component should be tested for quality during its development, rather than after it’s published.
