@@ -49,13 +49,13 @@ ADD IMAGE
 
 If you’ve decided you want to create a new component, you’ll need to open a GitHub issue on Project Gutenberg. This is where we’ll be able to discuss the proposed changes and track progress.
 
-[Click here to open a new issue](https://github.com/WordPress/gutenberg/issues/new?labels=Design+System&body=Then%2C+write+a+detailed+description%3A%0D%0A%0D%0A-+Explain+your+rationale+for+adding+this+component%0D%0A-+Detail+the+intended+behavior%0D%0A-+Clarify+if+it%E2%80%99s+a+new+component+of+a+variation+of+an+existing+one%0D%0A-+Include+a+basic+mockup+%28optional%29%0D%0A-+Include+inspiration+from+other+products+%28optional%29).
+[Click here to open a new issue](https://github.com/WordPress/gutenberg/issues/new?labels=Design+System&body=Then%2C+write+a+detailed+description%3A%0D%0A%0D%0A-+Explain+your+rationale+for+adding+this+component%0D%0A-+Detail+the+intended+behavior%0D%0A-+Clarify+if+it%E2%80%99s+a+new+component+or+a+variation+of+an+existing+one%0D%0A-+Include+a+basic+mockup+%28optional%29%0D%0A-+Include+inspiration+from+other+products+%28optional%29).
 
 Then, write a detailed description:
 
 - Explain your rationale for adding this component  
 - Detail the intended behavior  
-- Clarify if it’s a new component of a variation of an existing one  
+- Clarify if it’s a new component or a variation of an existing one  
 - Include a basic mockup (optional)  
 - Include inspiration from other products (optional)  
 - Tag the [@WordPress/gutenberg-components](https://github.com/orgs/WordPress/teams/gutenberg-components) and [@WordPress/gutenberg-design](https://github.com/orgs/WordPress/teams/gutenberg-design) GitHub groups
