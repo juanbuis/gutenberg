@@ -4,9 +4,7 @@ import { Meta } from '@storybook/addon-docs';
 
 # Contribute to components
 
-At WordPress, component contributions are major changes and [need to be backward compatible](https://developer.wordpress.org/block-editor/contributors/code/backward-compatibility/).
-
-While changing a typo in our documentation can be shipped quite quickly, work on components requires more time and attention from our design community.
+At WordPress, component contributions are major changes and [need to be backward compatible](https://developer.wordpress.org/block-editor/contributors/code/backward-compatibility/). They require at least one formal review from a designer.
 
 *Is this your first contribution? You’ll first need to follow <Link story="Contributing/Get Ready to Contribute">a couple of steps to get started</Link>.*
 
