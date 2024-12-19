@@ -29,7 +29,7 @@ Step 5: [Publish and Maintain](#step-5)
 
 It’s important to ask yourself this question before starting your contribution. Our library should include components that are generic and flexible enough to work across various products. It should include what’s shared across products and leave out what’s not.
 
-A great first step is to share your idea with our design community to see if there’s a need for your component. You can leave a comment in the [Design Systems Figma Library](https://www.figma.com/design/ficiK5ADsOuiCromUZam1E/WordPress-Design-System-(Community)?node-id=13482-72792&t=ofEJnkdwKdS5mhGX-1), or drop a question in #design-systems on Slack, where people will be happy to help.
+A great first step is to share your idea with our community to see if there’s a need for your component. You can leave a comment in the [Design Systems Figma Library](https://www.figma.com/design/ficiK5ADsOuiCromUZam1E/WordPress-Design-System-(Community)?node-id=13482-72792&t=ofEJnkdwKdS5mhGX-1), or drop a question in #design-systems on Slack, where people will be happy to help.
 
 Some more questions you can ask yourself if you’re thinking of creating a new component:
 

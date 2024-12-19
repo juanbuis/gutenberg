@@ -2,7 +2,7 @@ import { Meta } from '@storybook/addon-docs';
 
 <Meta title="Contributing/Overview" />
 
-A design system is never finished. That’s why all designers, developers, and writers from across the world are invited to help improve WPDS. This documentation is designed to help you get started quickly and with confidence. 
+A design system is never finished. That’s why all designers, developers, and writers from across the world are invited to help improve the WordPress Design System. This documentation is designed to help you get started quickly and with confidence. 
 
 ### **Get connected**
 
